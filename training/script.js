@@ -5,5 +5,3 @@ const obj = {
 
 obj.bob = 300;
 console.log(obj.bob);
-const a = 1;
-alert(s);
