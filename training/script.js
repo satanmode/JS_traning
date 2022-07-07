@@ -1,7 +1,9 @@
 const obj = {
-    name: 'John',
-    age: 25,
-    isMarries: false
+    Anna: 500,
+    Alisa: 800,
 };
 
-console.log(obj.name)
+obj.bob = 300;
+console.log(obj.bob);
+const a = 1;
+alert(s);
